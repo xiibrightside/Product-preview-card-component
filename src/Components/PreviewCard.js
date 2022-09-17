@@ -9,7 +9,7 @@ const PreviewCard = () => {
       </div>
       <div className="card-description flex flex-col justify-between bg-white p-9">
         <h2>PERFUME</h2>
-        <h1 className="title leading-none">Gabrielle Essence Eau De Parfum</h1>
+        <h1 className="title">Gabrielle Essence Eau De Parfum</h1>
         <p>
           A floral, solar and voluptuous interpretation composed by Olivier
           Polge, Perfume-Creator for the House of CHANEL.
